@@ -1,12 +1,11 @@
 # Arhaan Girdhar CSE Junior @Manipal Insitute of Technology.
 
 <div>
-  <h2 align="center"> <img src="https://komarev.com/ghpvc/?username=17arhaan&label=Profile%20views&color=0e75b6&style=flat" alt="17arhaan" /> </h2>
+  <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=17arhaan&label=Profile%20views&color=0e75b6&style=flat" alt="17arhaan" /> </h3>
 </div>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17arhaan&" alt="17arhaan" /></p>
 
-<h2
 <div>
 ● 🔭 I’m currently working as an Intern in ***Bharat Electronics Limited***.
 <br/>
@@ -16,7 +15,7 @@
 <br/>
 ● 📫 How to reach me: ***17arhaan@gmail.com***.
 <br/>
-● 👨‍💻 All of my projects are available at ***https://github.com/17arhaan/Projects***. /></h2> 
+● 👨‍💻 All of my projects are available at ***https://github.com/17arhaan/Projects***.
 </div>
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=17arhaan" alt="17arhaan" /></a> </p>
