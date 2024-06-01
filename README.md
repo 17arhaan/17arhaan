@@ -6,7 +6,7 @@
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17arhaan&" alt="17arhaan" /></p>
 
-<div>
+<br/>
 ● 🔭 I’m currently working as an Intern in ***Bharat Electronics Limited***.
 <br/>
 ● 🌱 I’m currently learning ***Full Stack Web Development***.
@@ -16,7 +16,7 @@
 ● 📫 How to reach me: ***17arhaan@gmail.com***.
 <br/>
 ● 👨‍💻 All of my projects are available at ***https://github.com/17arhaan/Projects***.
-</div>
+<br/>
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=17arhaan" alt="17arhaan" /></a> </p>
 
