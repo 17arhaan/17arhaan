@@ -1,4 +1,4 @@
-
+# I'm open to collaborations and excited to work together! Feel free to reach out.
 
 ● 🔭 I’m currently working as an Intern in ***Bharat Electronics Limited***.
 <br/>
@@ -13,4 +13,4 @@
 
 ## **Languages & Tools :-**
 <br/>
-——————————————————————
+
