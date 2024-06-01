@@ -1,6 +1,4 @@
-# Hi !! I'm  Arhaan Girdhar CSE Junior @Manipal Insitute of Technology.
-<br/>
-And I'm open to collaborations and excited to work together! Feel free to reach out.
+# Arhaan Girdhar CSE Junior @Manipal Insitute of Technology.
 
 ● 🔭 I’m currently working as an Intern in ***Bharat Electronics Limited***.
 <br/>
