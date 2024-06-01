@@ -11,6 +11,6 @@
 ● 👨‍💻 All of my projects are available at ***https://github.com/17arhaan/Projects***. 
 <br/>
 
-#**Languages & Tools :-**
+## **Languages & Tools :-**
 <br/>
 ——————————————————————
