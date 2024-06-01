@@ -1,5 +1,7 @@
 # Arhaan Girdhar CSE Junior @Manipal Insitute of Technology.
 
+## ![Profile Views :](https://gpvc.arturio.dev/17arhaan)
+
 ● 🔭 I’m currently working as an Intern in ***Bharat Electronics Limited***.
 <br/>
 ● 🌱 I’m currently learning ***Full Stack Web Development***.
