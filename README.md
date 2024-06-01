@@ -1,5 +1,6 @@
 # Arhaan Girdhar CSE Junior @Manipal Insitute of Technology.
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17arhaan&" alt="17arhaan" /></p>
 
 
 ● 🔭 I’m currently working as an Intern in ***Bharat Electronics Limited***.
@@ -34,5 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=17arhaan&show_icons=true&locale=en" alt="17arhaan" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=17arhaan&" alt="17arhaan" /></p>
 
