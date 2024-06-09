@@ -1,9 +1,10 @@
 # Arhaan Girdhar CSE Junior @Manipal Insitute of Technology.
 
-![GitHub Stats](https://readme-md-stats.vercel.app/api?username=17arhaan&theme=dark)
 <div>
   <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=17arhaan&label=Profile%20views&color=0e75b6&style=flat" alt="17arhaan" /> </h3>
 </div>
+
+![GitHub Stats](https://readme-md-stats.vercel.app/api?username=17arhaan&theme=dark)
 
 <br/>
 
