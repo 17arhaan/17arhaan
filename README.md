@@ -33,8 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=17arhaan&show_icons=true&locale=en&layout=compact" alt="17arhaan" /></p>
 
-<p>&nbsp;
-  ![GitHub Stats](https://readme-md-stats.vercel.app/api?username=17arhaan&theme=dark)
-</p>
+![GitHub Stats](https://readme-md-stats.vercel.app/api?username=17arhaan&theme=dark)
 
 
