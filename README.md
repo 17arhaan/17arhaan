@@ -18,7 +18,6 @@
 <br/>
 ● 👨‍💻 All of my projects are available at ***https://github.com/17arhaan/Projects***.
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=17arhaan" alt="17arhaan" /></a> </p>
 
 <h2 align="center"> Connections </h2>
 <p align="left">
