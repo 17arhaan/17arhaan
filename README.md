@@ -47,7 +47,6 @@
 <a href="https://github.com/17arhaan">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=17arhaan&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17arhaan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=17arhaan&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=17arhaan&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17arhaan&theme=2077" height="180em" />
 </div>
