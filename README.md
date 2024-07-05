@@ -8,11 +8,11 @@
 
 <br/>
 
-● 🔭 I’m currently working as an Intern in ***Bharat Electronics Limited***.
+● 🔭 I’m currently working as a Project Lead in ***buildspace***.
 <br/>
-● 🌱 I’m currently learning ***Full Stack Web Development***.
+● 🌱 I’m currently learning ***Integrating APIs***.
 <br/>
-● 👯 I’m looking to collaborate on any undergoing ***JS Projects***.
+● 👯 I’m looking to collaborate on any undergoing ***Chatbot Projects***.
 <br/>
 ● 📫 How to reach me: ***17arhaan@gmail.com***.
 <br/>
