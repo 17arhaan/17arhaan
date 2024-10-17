@@ -8,15 +8,13 @@
 
 <br/>
 
-● 🔭 I’m currently working as a Project Lead in ***buildspace***.
+● 🔭 ***buildspace***.
 <br/>
-● 🌱 I’m currently learning ***Integrating APIs***.
+● 🌱 ***Integrating APIs***.
 <br/>
-● 👯 I’m looking to collaborate on any undergoing ***Chatbot Projects***.
+● 📫 ***17arhaan@gmail.com***.
 <br/>
-● 📫 How to reach me: ***17arhaan@gmail.com***.
-<br/>
-● 👨‍💻 All of my projects are available at ***https://github.com/17arhaan/Projects***.
+● 👨‍💻 ***https://github.com/17arhaan/Projects***.
 <br/>
 
 <h2 align="center"> Connections </h2>
