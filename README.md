@@ -27,7 +27,7 @@
 
 ### Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,node,express,sql,mongodb,gcp,tensorflow,opencv,openai,matplotlib,numpy,pandas,ps,pr,ae" alt="Languages and Tools">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,express,mongodb,gcp,tensorflow,opencv,openai,matplotlib,numpy,pandas,ps,pr,ae" alt="Languages and Tools">
 </p>
 
 ---
