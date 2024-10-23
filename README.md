@@ -1,6 +1,4 @@
 
-
-```markdown
 <div align="center">
   <img src="https://user-images.githubusercontent.com/yourBannerImage.jpg" alt="Arhaan Girdhar Banner" style="border-radius: 10px;">
   <h3>Arhaan Girdhar | CSE Junior @ Manipal Institute of Technology</h3>
@@ -52,6 +50,3 @@ Python       4 hrs 50 mins   ███████░░░░░░░░░░
 <img src="https://activity-graph.herokuapp.com/graph?username=17arhaan&theme=github" alt="GitHub Activity Graph">
 
 ---
-
-Feel free to fork this template and customize it as you see fit!
-```
