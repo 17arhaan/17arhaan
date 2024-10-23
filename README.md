@@ -1,4 +1,3 @@
-
 <div align="center">
   <h3>Arhaan Girdhar | CSE Junior @ Manipal Institute of Technology</h3>
   <h4><a href="https://17arhaan.github.io/resume/home.html" style="font-family: 'Courier New', monospace; font-size: 20px; color: #58a6ff; text-decoration: none;"><img src="https://user-images.githubusercontent.com/portfolio-icon.png" width="20" height="20" style="vertical-align: bottom;"> Visit My Portfolio</a></h4>
@@ -27,7 +26,9 @@
 
 ### Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,express,mongodb,gcp,tensorflow,opencv,openai,matplotlib,numpy,pandas,ps,pr,ae" alt="Languages and Tools">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17arhaan&theme=algolia" height="180em" />
+</p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,express,mysql,mongodb,gcp,tensorflow,opencv,pycharm,html,css,js,ps,pr,ae,notion,obsidian" alt="Languages and Tools">
 </p>
 
 ---
