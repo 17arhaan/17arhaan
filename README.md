@@ -11,7 +11,7 @@
 ---
 
 ### About Me:
-- 🔭 I’m currently working on **buildspace projects, focusing on integrating APIs**.
+- 🔭 I’m currently working on ** projects , focused on integrating APIs**.
 - 🌱 I’m currently learning **more about cloud services and backend development**.
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/17arhaan/Projects).
 
