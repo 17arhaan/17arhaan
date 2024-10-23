@@ -1,3 +1,4 @@
+
 <div align="center">
   <h3>Arhaan Girdhar | CSE Junior @ Manipal Institute of Technology</h3>
   <h4><a href="https://17arhaan.github.io/resume/home.html" style="font-family: 'Courier New', monospace; font-size: 20px; color: #58a6ff; text-decoration: none;"><img src="https://user-images.githubusercontent.com/portfolio-icon.png" width="20" height="20" style="vertical-align: bottom;"> Visit My Portfolio</a></h4>
@@ -26,14 +27,16 @@
 
 ### Languages and Tools:
 <p align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17arhaan&theme=algolia" height="180em" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,node,express,sql,mongodb,gcp,tensorflow,opencv,openai,matplotlib,numpy,pandas,ps,pr,ae" alt="Languages and Tools">
 </p>
 
 ---
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">📈 GitHub Statistics:</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=17arhaan&show_icons=true&theme=algolia" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=17arhaan&theme=algolia" alt="GitHub Streak">
   <a href="https://github.com/17arhaan">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17arhaan&theme=algolia" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17arhaan&theme=algolia" height="180em" />
 </div>
 
@@ -42,3 +45,7 @@
 ```text
 JavaScript   12 hrs 5 mins   ██████████████████░░░░░░░   72.13 %
 Python       4 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   28.87 %
+```
+<!--END_SECTION:waka-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
