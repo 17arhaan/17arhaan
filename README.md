@@ -25,9 +25,9 @@
 </p>
 
 ### Languages and Tools:
-<p align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=17arhaan&theme=algolia" width="900" height="180" alt="Top languages by repository" />
-</p>
+<div style="width: 800px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=17arhaan&theme=algolia" style="width: 100%;" alt="Top languages by repository" />
+</div>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,express,mysql,mongodb,gcp,tensorflow,opencv,pycharm,html,css,js,ps,pr,ae,notion,obsidian" alt="Languages and Tools">
 
 <div align="center">
