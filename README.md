@@ -4,8 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=17arhaan&label=Profile%20views&color=0e75b6&style=flat" alt="17arhaan profile views" />
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=17arhaan&include_all_commits=true&theme=algolia" alt="Arhaan's GitHub Stats">
+<div align="https://github-readme-stats.vercel.app/api?username=17arhaan&rank_icon=percentile&theme=algolia" alt="Arhaan's GitHub Stats">
 </div>
 
 ---
