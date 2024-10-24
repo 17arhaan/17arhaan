@@ -26,7 +26,7 @@
 
 ### Languages and Tools:
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=17arhaan4&layout=compact&theme=algolia&hide_title=false&card_width=300" height="180em" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=17arhaan4&layout=compact&theme=algolia&hide_title=false" height="180em" />
 </p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,express,mysql,mongodb,gcp,tensorflow,opencv,pycharm,html,css,js,ps,pr,ae,notion,obsidian" alt="Languages and Tools">
 </p>
