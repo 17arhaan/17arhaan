@@ -26,13 +26,13 @@
 
 ### Languages and Tools:
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=17arhaan4&layout=compact&theme=algolia&hide_title=false" height="180em" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=17arhaan4&layout=compact&theme=algolia&hide_title=false" height="180em" />
 </p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,express,mysql,mongodb,gcp,tensorflow,opencv,pycharm,html,css,js,ps,pr,ae,notion,obsidian" alt="Languages and Tools">
-</p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">📈 GitHub Statistics:</h3>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h3 align="center">📈 GitHub Statistics:</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=17arhaan&theme=algolia" alt="GitHub Streak">
   <a href="https://github.com/17arhaan">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17arhaan&theme=algolia" height="180em" />
