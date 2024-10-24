@@ -5,7 +5,8 @@
 </div>
 
 <div align="center>
-  <img src="https://github-readme-stats.vercel.app/api?username=17arhaan&rank_icon=percentile&theme=algolia" alt="Arhaan's GitHub Stats">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=17arhaan&rank_icon=percentile&theme=algolia" alt="Arhaan's GitHub Stats"/>
 </div>
 
 ---
