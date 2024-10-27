@@ -40,6 +40,8 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17arhaan&theme=algolia" height="180em" />
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 🕒 Weekly Development Breakdown:
 <!--START_SECTION:waka-->
 ```text
@@ -48,4 +50,4 @@ Python       4 hrs 50 mins   ███████░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
