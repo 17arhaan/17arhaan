@@ -35,7 +35,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <div align="center">
-  <h3 align="center">📈 GitHub Statistics:</h3>
+  <h3 align="center"> GitHub Statistics:</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=17arhaan&theme=algolia"height="250em" alt="GitHub Streak">
   <a href="https://github.com/17arhaan">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17arhaan&theme=algolia"height="190em" />
@@ -44,12 +44,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🕒 Weekly Development Breakdown:
-<!--START_SECTION:waka-->
+###  Weekly Development Breakdown:
 ```text
 Jupyter NB   12 hrs 5 mins   ██████████████████░░░░░░░   72.13 %
 Python       4 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   28.87 %
 ```
-<!--END_SECTION:waka-->
-
 ---
