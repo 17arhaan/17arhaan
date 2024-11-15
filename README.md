@@ -35,16 +35,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <div align="center">
-  <h3>📈 GitHub Statistics:</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=17arhaan&theme=github-dark" alt="GitHub Streak">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=17arhaan&show_icons=true&theme=github-dark" alt="GitHub Stats" />
-  <br><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17arhaan&theme=github-dark" alt="Profile Details" />
-  <br><br>
+  <h3 align="center">📈 GitHub Statistics:</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=17arhaan&theme=algolia" alt="GitHub Streak">
+  <a href="https://github.com/17arhaan">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17arhaan&theme=algolia" height="180em" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=17arhaan&theme=github-dark" alt="Activity Graph" />
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
