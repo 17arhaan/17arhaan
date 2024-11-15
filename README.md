@@ -38,7 +38,7 @@
   <h3 align="center">📈 GitHub Statistics:</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=17arhaan&theme=algolia"height="250em" alt="GitHub Streak">
   <a href="https://github.com/17arhaan">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17arhaan&theme=algolia"height="200em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17arhaan&theme=algolia"height="190em" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=17arhaan&theme=github-dark"height="230em" alt="Activity Graph" />
 </div>
 
