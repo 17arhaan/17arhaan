@@ -41,7 +41,7 @@
 
 ###  Weekly Development Breakdown:
 ```text
-Jupyter NB   12 hrs 5 mins   ██████████████████░░░░░░░   72.13 %
-Python       4 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   28.87 %
+C++   7 hrs 51 mins   ████████████████████████   100 %
+// Python       4 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   28.87 %
 ```
 ---
