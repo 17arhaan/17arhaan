@@ -42,6 +42,5 @@
 ###  Weekly Development Breakdown:
 ```text
 C++   7 hrs 51 mins   ████████████████████████   100 %
-// Python       4 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   28.87 %
 ```
 ---
