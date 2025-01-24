@@ -7,8 +7,8 @@
 ---
 
 ### About Me:
-- 🔭 I’m currently working on **projects , focused on integrating APIs**.
-- 🌱 I’m currently learning **more about cloud services and backend development**.
+- 🔭 I’m currently working on **AI Visual & Speech Assitant ~ Jarvis**.
+- 🌱 I’m currently learning **Deeplearning and Reinforcement Learning**.
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/17arhaan/Projects).
 - 
 ###  Random Quote
