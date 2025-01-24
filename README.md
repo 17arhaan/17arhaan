@@ -35,6 +35,13 @@
   <img align="center"src="https://github-readme-stats.vercel.app/api?username=17arhaan&rank_icon=percentile&theme=algolia"height="190em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17arhaan&theme=algolia"height="190em" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=17arhaan&theme=github-dark"height="230em" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=17arhaan&theme=github-dark"height="230em" alt="Activity Graph" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=17arhaan&limit=5&theme=github-dark"height="230em" alt="Activity Graph" />
+    
+###  Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=agola)
+    
+[![](https://visitcount.itsvg.in/api?id=17arhaan&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
