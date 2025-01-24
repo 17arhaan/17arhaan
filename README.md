@@ -2,6 +2,8 @@
   <h3>Arhaan Girdhar | CSE Junior @ Manipal Institute of Technology</h3>
   <h4><a href="https://arhaanportfolio.in/" style="font-family: 'Courier New', monospace; font-size: 20px; color: #58a6ff; text-decoration: none;">🌐 Visit My Portfolio</a></h4>
   <img src="https://komarev.com/ghpvc/?username=17arhaan&label=Profile%20views&color=0e75b6&style=flat" alt="17arhaan profile views" />
+
+  
   <a href="https://github.com/17arhaan">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=17arhaan&rank_icon=percentile&theme=algolia" height="190em" />
   </a>
