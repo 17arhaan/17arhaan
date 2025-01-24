@@ -47,7 +47,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=17arhaan&theme=github-dark"height="230em"&margin-w=2 />
 </div>
 <div>
-  <img src="https://github-contributor-stats.vercel.app/api?username=17arhaan&limit=5&theme=radical" height="200em" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=17arhaan&hide=B,B%2B&hide_contributor_rank=false&limit=5&order_by=contributions&theme=radical" height="200em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
