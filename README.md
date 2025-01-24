@@ -9,7 +9,7 @@
 ### About Me:
 - 🔭 I’m currently working on **AI Visual & Speech Assitant ~ Jarvis**.
 - 🌱 I’m currently learning **Deeplearning and Reinforcement Learning**.
-- 👨‍💻 All of my projects are available at [𝘮𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴](https://github.com/17arhaan/Projects).
+- 👨‍💻 All of my projects are available at [𝘗𝘙𝘖𝘑𝘌𝘊𝘛𝘚](https://github.com/17arhaan/Projects).
 - 
 ###  Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=agolia)
