@@ -2,6 +2,9 @@
   <h3>Arhaan Girdhar | CSE Junior @ Manipal Institute of Technology</h3>
   <h4><a href="https://arhaanportfolio.in/" style="font-family: 'Courier New', monospace; font-size: 20px; color: #58a6ff; text-decoration: none;">🌐 Visit My Portfolio</a></h4>
   <img src="https://komarev.com/ghpvc/?username=17arhaan&label=Profile%20views&color=0e75b6&style=flat" alt="17arhaan profile views" />
+  <a href="https://github.com/17arhaan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=17arhaan&rank_icon=percentile&theme=algolia" height="190em" />
+  </a>
 </div>
 
 ---
@@ -31,14 +34,11 @@
   
 <div align="center">
   <h3>GitHub Statistics:</h3>
-  <a href="https://github.com/17arhaan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=17arhaan&rank_icon=percentile&theme=algolia" height="190em" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-repos?username=17arhaan&theme=algolia&hide_border=true&count_private=true" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17arhaan&theme=algolia" height="190em" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=17arhaan&theme=github-dark" height="230em" />
   <img src="https://github-profile-trophy.vercel.app/?username=17arhaan&theme=algolia" height="230em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=algolia&layout=compact&hide=html,css" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-repos?username=17arhaan&theme=algolia&hide_border=true&count_private=true" height="180em" />
 </div>
     
 ###  Random Dev Quote
