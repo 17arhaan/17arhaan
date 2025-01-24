@@ -23,7 +23,7 @@
 
 <h3 align = "center"> Connections</h3>
 
-<p align="left">
+<p align="center">
   <a href="mailto:17arhaan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/arhaan17"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/awwrhaan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -31,7 +31,8 @@
   <a href="https://auth.geeksforgeeks.org/user/user_qzc994wj7gi/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"></a>
 </p>
 
-### Languages and Tools:
+<h3 align = "center"> Languages | Tools | Frameworks </h3>
+
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17arhaan&theme=algolia&layout=compact&hide=html,css" height="180em"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=algolia&layout=compact&hide=html,css" height="180em" />
