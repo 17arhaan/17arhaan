@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=agolia)
 </p>
 
-<h3 algin = "center"> Connections</h3>
+<h3 align = "center"> Connections</h3>
 
 <p align="left">
   <a href="mailto:17arhaan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
