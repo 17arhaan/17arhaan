@@ -23,7 +23,7 @@
 ### Languages and Tools:
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17arhaan&theme=algolia&layout=compact&hide=html,css" height="180em"  />
-    <img src="https://github-readme-stats.vercel.app/api/cards/top-langs/?username=17arhaan&theme=algolia&layout=compact&hide=html,css" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=algolia&layout=compact&hide=html,css" height="180em" />
 </div>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,express,mysql,mongodb,gcp,tensorflow,opencv,pycharm,html,css,js" alt="Languages and Tools">
 </p>
