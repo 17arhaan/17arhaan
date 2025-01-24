@@ -16,10 +16,9 @@
 - 👨‍💻 All of my projects are available at [𝘗𝘙𝘖𝘑𝘌𝘊𝘛𝘚](https://github.com/17arhaan/Projects).
 
 <h3 align = "center"> Quote Of The Day</h3>
-<p align ="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=agolia)
-</p>
+<div align ="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=agolia">
+</div>
 
 <h3 align = "center"> Connections</h3>
 
