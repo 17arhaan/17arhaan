@@ -21,10 +21,10 @@
 </p>
 
 ### Languages and Tools:
-<p align="center">
+<div align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17arhaan&theme=algolia" height="180em" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=algolia&layout=compact&hide=html,css" height="180em" />
-</p>
+</div>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,express,mysql,mongodb,gcp,tensorflow,opencv,pycharm,html,css,js" alt="Languages and Tools">
 </p>
 <div align="center">
