@@ -37,7 +37,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17arhaan&theme=algolia" height="190em" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=17arhaan&theme=github-dark" height="230em" />
   <img src="https://github-profile-trophy.vercel.app/?username=17arhaan&theme=algolia" height="230em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=algolia&layout=compact&hide=html,css" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=algolia&layout=compact height="180em" />
 </div>
     
 ###  Random Dev Quote
