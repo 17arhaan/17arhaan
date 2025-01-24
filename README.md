@@ -53,7 +53,9 @@
 
 ###  Weekly Breakdown
 ```text
+
   Python  ----->     21 hrs 51 mins   ██████████████████████  73.9 %
   C++     ----->     05 hrs 14 mins   ███████                 26.1%
+
 ```
 ---
