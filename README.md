@@ -17,7 +17,7 @@
 
 <h3 align = "center"> Quote Of The Day</h3>
 <div align ="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=agolia">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia">
 </div>
 
 <h3 align = "center"> Connections</h3>
