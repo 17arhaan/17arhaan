@@ -52,10 +52,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align = "center"> Weekly Breakdown </h3>
-```text
 
+```text
   C++     ----->     05 hrs 14 mins   ███████                 26.1%
   Python  ----->     21 hrs 51 mins   ██████████████████████  73.9 %
-
 ```
+
 ---
