@@ -44,7 +44,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=17arhaan&theme=radical"height="230em"&no-frame=false/> 
 </div>
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=17arhaan&theme=github-dark"height="230em"&margin-w=2 />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=17arhaan&theme=radical"height="230em"&margin-w=2 />
 </div>
 <div>
   <img src="https://github-contributor-stats.vercel.app/api?username=17arhaan&hide=B,B%2B&hide_contributor_rank=false&limit=5&order_by=contributions&theme=radical" height="200em" />
