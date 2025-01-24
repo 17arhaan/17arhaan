@@ -6,7 +6,7 @@
 
 <div align = "center">
   <img align="center"src="https://github-readme-stats.vercel.app/api?username=17arhaan&rank_icon=percentile&theme=radical"height="190em"&margin-w=2 />
-  <img align="center"src="https://streak-stats.demolab.com?user=17arhaan&theme=radical&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D"height="190em"&margin-w=2 />
+<!--   <img align="center"src="https://streak-stats.demolab.com?user=17arhaan&theme=radical&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D"height="190em"&margin-w=2 /> -->
 </div>
 
 ---
