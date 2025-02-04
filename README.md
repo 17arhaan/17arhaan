@@ -1,11 +1,11 @@
 <div align="center">
   <h3>Arhaan Girdhar | CSE Junior @ Manipal Institute of Technology</h3>
   <h4><a href="https://arhaanportfolio.in/" style="font-family: 'Courier New', monospace; font-size: 20px; color: #58a6ff; text-decoration: none;">🌐 Visit My Portfolio</a></h4>
-  <img src="https://komarev.com/ghpvc/?username=Anbar26&label=Profile%20views&color=0e75b6&style=flat" alt="17arhaan profile views" />
+  <img src="https://komarev.com/ghpvc/?username=17Arhaan&label=Profile%20views&color=0e75b6&style=flat" alt="17arhaan profile views" />
 </div>
 
 <div align = "center">
-  <img align="center"src="https://github-readme-stats.vercel.app/api?username=17arhaan&rank_icon=percentile&theme=radical"height="190em"&margin-w=2 />
+  <img align="center"src="https://github-readme-stats.vercel.app/api?username=Anbar26&rank_icon=percentile&theme=radical"height="190em"&margin-w=2 />
 <!--   <img align="center"src="https://streak-stats.demolab.com?user=17arhaan&theme=radical&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D"height="190em"&margin-w=2 /> -->
 </div>
 
