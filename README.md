@@ -30,9 +30,10 @@
   <a href="https://www.leetcode.com/arhaan17"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://auth.geeksforgeeks.org/user/user_qzc994wj7gi/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"></a>
 </p>
-
+<p>
 <h3 align = "center"> Languages | Tools | Frameworks </h3>
-
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,express,mysql,mongodb,gcp,tensorflow,opencv,pycharm,html,css,js" alt="Languages and Tools">
+</p>
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="180em"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="180em" />
