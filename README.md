@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/MPI-OpenMPI-3EAAAF?style=for-the-badge&logo=openmpi&logoColor=white">
+  <img src="https://img.shields.io/badge/MPI-3EAAAF?style=for-the-badge&logo=openmpi&logoColor=white">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
 </p>
 
