@@ -88,7 +88,7 @@
 </div>
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="180em"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api/cards/top-langs/?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="180em" />
 </div>
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=17arhaan&theme=github-dark"height="230em"&margin-w=2 />
