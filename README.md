@@ -87,9 +87,10 @@
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=17arhaan&theme=radical"height="230em"&margin-w=2 /> -->
 </div>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="180em"  />
-    <img src="https://github-readme-stats.vercel.app/api/cards/top-langs/?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="180em" style="border: 2px solid #ddd; border-radius: 8px; margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="180em" style="border: 2px solid #ddd; border-radius: 8px; margin: 10px;" />
 </div>
+
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=17arhaan&theme=github-dark"height="230em"&margin-w=2 />
 </div>
