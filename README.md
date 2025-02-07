@@ -79,8 +79,10 @@
   <img src="https://img.shields.io/badge/PL%2FSQL-red?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
-
-
+</br>
+</br>
+</br>
+</br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
