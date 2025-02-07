@@ -15,6 +15,7 @@
 - 🔭 I’m currently working on **AI Visual & Speech Assitant ~ Jarvis**.
 - 🌱 I’m currently learning **Deeplearning and Reinforcement Learning**.
 - 👨‍💻 All of my projects are available at [𝘗𝘙𝘖𝘑𝘌𝘊𝘛𝘚](https://github.com/17arhaan/Projects).
+</br>
 
 <h3 align = "center"> Quote Of The Day</h3>
 <div align ="center">
@@ -79,7 +80,6 @@
   <img src="https://img.shields.io/badge/PL%2FSQL-red?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
-</br>
 </br>
 </br>
 <div align="center">
