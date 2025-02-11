@@ -17,10 +17,6 @@
 - 👨‍💻 All of my projects are available at [𝘗𝘙𝘖𝘑𝘌𝘊𝘛𝘚](https://github.com/17arhaan/Projects).
 </br>
 
-<h3 align = "center"> Quote Of The Day</h3>
-<div align ="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</div>
 
 <h3 align = "center"> Connections</h3>
 <p align="center">
@@ -30,6 +26,13 @@
   <a href="https://www.leetcode.com/arhaan17"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://auth.geeksforgeeks.org/user/user_qzc994wj7gi/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"></a>
 </p>
+
+<h3 align = "center"> Quote Of The Day</h3>
+<div align ="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</div>
+
+---
 
 <h3 align="center">Programming Languages </h3>
 <p align="center">
