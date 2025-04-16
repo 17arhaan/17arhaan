@@ -12,7 +12,7 @@
 ---
 
 ### About Me:
-- 🔭 I’m currently working on **AI Visual & Speech Assitant ~ Jarvis**.
+- 🔭 I’m currently working on **Humanoid ~ Disability Assistance**.
 - 🌱 I’m currently learning **How to build AI Agents and Deeplearning**.
 - 👨‍💻 All of my projects are available at [𝘗𝘙𝘖𝘑𝘌𝘊𝘛𝘚](https://github.com/17arhaan/Projects).
 </br>
