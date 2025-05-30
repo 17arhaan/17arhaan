@@ -30,8 +30,8 @@
 - All of my projects are available at [𝘗𝘙𝘖𝘑𝘌𝘊𝘛𝘚](https://github.com/17arhaan/Projects).
   
 <div align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="180em" style="border: 2px solid #ddd; border-radius: 8px; margin: 10px;" />
-  <img align="center"src="https://github-readme-stats.vercel.app/api?username=17Arhaan&rank_icon=percentile&theme=radical"height="190em"&margin-w=2 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="180em"/>
+  <img align="center"src="https://github-readme-stats.vercel.app/api?username=17Arhaan&rank_icon=percentile&theme=radical"height="190em"/>
 <!--   <img align="center"src="https://streak-stats.demolab.com?user=17arhaan&theme=radical&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D"height="190em"&margin-w=2 /> -->
 </div>
 
@@ -232,7 +232,7 @@
 <div>
 <!--   <img src="https://github-contributor-stats.vercel.app/api?username=17arhaan&hide=B,B%2B&&theme=radical" height="200em" /> -->
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <h3 align = "center"> Weekly Breakdown </h3>
 
