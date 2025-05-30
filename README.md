@@ -28,6 +28,8 @@
   - **Digital Marketing & Analytics** – Data-driven storytelling and brand strategy using AI
     
 - All of my projects are available at [𝘗𝘙𝘖𝘑𝘌𝘊𝘛𝘚](https://github.com/17arhaan/Projects).
+
+  ---
   
 <div align = "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="190em"/>
