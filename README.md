@@ -33,6 +33,104 @@
 </div>
 
 ---
+<h3 align="center">Certifications</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://coursera.org/account/accomplishments/verify/Y53G36TKQGCU" target="_blank">
+        <img src="https://img.shields.io/badge/IBM-Exploratory%20Data%20Analysis-blue?style=for-the-badge&logo=ibm&logoColor=white">
+      </a>
+      <br/>
+      <sub><b>IBM</b><br/>Exploratory Data Analysis</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/certificate/1XMZBVRYNKB2" target="_blank">
+        <img src="https://img.shields.io/badge/DeepLearning.AI-Neural%20Networks%20%26%20DL-EE4C2C?style=for-the-badge&logo=deeplearningdotai&logoColor=white">
+      </a>
+      <br/>
+      <sub><b>DeepLearning.AI</b><br/>Neural Networks & Deep Learning</sub>
+    </td>
+    <td align="center">
+      <a href="https://drive.google.com/drive/u/0/folders/1S55QbJu8Pv5a8wAxj5SMgOviAwjTbmKl" target="_blank">
+        <img src="https://img.shields.io/badge/Infosys-Big%20Data%20Analytics-orange?style=for-the-badge&logo=apache-spark&logoColor=white">
+      </a>
+      <br/>
+      <sub><b>Infosys</b><br/>Big Data Analytics with PySpark</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/certificate/5VKU3Z5HMB2G" target="_blank">
+        <img src="https://img.shields.io/badge/Google-Intro%20to%20Generative%20AI-34A853?style=for-the-badge&logo=google&logoColor=white">
+      </a>
+      <br/>
+      <sub><b>Google</b><br/>Intro to Generative AI</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/certificate/6763NRR61X28" target="_blank">
+        <img src="https://img.shields.io/badge/AWS-Generative%20AI%20with%20LLMs-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+      </a>
+      <br/>
+      <sub><b>AWS</b><br/>Generative AI with LLMs</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/certificate/PR9LFUKNWDA1" target="_blank">
+        <img src="https://img.shields.io/badge/Google-Project%20Management-34A853?style=for-the-badge&logo=google&logoColor=white">
+      </a>
+      <br/>
+      <sub><b>Google</b><br/>Foundations of Project Management</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/ZU3G2X5YR2VG" target="_blank">
+        <img src="https://img.shields.io/badge/Illinois-Leading%20Teams-blue?style=for-the-badge&logo=universityofillinoisurbana&logoColor=white">
+      </a>
+      <br/>
+      <sub><b>Illinois</b><br/>Leading Teams</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/certificate/1ME6P85IAKC7" target="_blank">
+        <img src="https://img.shields.io/badge/Marketing-in%20Digital%20World-0F9D58?style=for-the-badge&logo=coursera&logoColor=white">
+      </a>
+      <br/>
+      <sub><b>Illinois</b><br/>Marketing in Digital World</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/certificate/QDDUU62J27AK" target="_blank">
+        <img src="https://img.shields.io/badge/Marketing-Analytics%20in%20Theory-0F9D58?style=for-the-badge&logo=coursera&logoColor=white">
+      </a>
+      <br/>
+      <sub><b>Illinois</b><br/>Marketing Analytics in Theory</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/certificate/HT1IYP3OUP4U" target="_blank">
+        <img src="https://img.shields.io/badge/Marketing-Analytics%20in%20Practice-0F9D58?style=for-the-badge&logo=coursera&logoColor=white">
+      </a>
+      <br/>
+      <sub><b>Illinois</b><br/>Marketing Analytics in Practice</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/MY6XZH187WW2" target="_blank">
+        <img src="https://img.shields.io/badge/Microsoft-Foundations%20of%20AI%20and%20ML-blue?style=for-the-badge&logo=microsoft&logoColor=white">
+      </a>
+      <br/>
+      <sub><b>Microsoft</b><br/>Foundations of AI & ML</sub>
+    </td>
+    <td align="center">
+      <a href="https://your-link-to-meta-certificate.com" target="_blank">
+        <img src="https://img.shields.io/badge/Meta-Back--End%20Developer-0A66C2?style=for-the-badge&logo=meta&logoColor=white">
+      </a>
+      <br/>
+      <sub><b>Meta</b><br/>Back-End Developer</sub>
+    </td>
+  </tr>
+</table>
+
+---
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
