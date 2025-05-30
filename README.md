@@ -237,12 +237,13 @@
 </div>
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
-<h3 align = "center"> Weekly Breakdown </h3>
+<h3 align="center">Weekly Breakdown</h3>
 
-| Language   | Time           | Percentage | Visual Representation        |
-|------------|----------------|------------|------------------------------|
-| C++        | 05 hrs 14 mins | 23.8%      | ████████░░░░░░░░░░░░░░░░░░░  |
-| Python     | 21 hrs 51 mins | 50.9%      | ████████████░░░░░░░░░░  |
-| Typescript | 06 hrs 51 mins | 25.3%      | █████████░░░░░░░░░░░░░░░░░░  |
+| Language   | Time           | Percentage | Visual Representation                         |
+|------------|----------------|------------|-----------------------------------------------|
+| C++        | 05 hrs 14 mins | 23.8%      | ████████░░░░░░░░░░░░░░░░░░░░                  |
+| Python     | 21 hrs 51 mins | 50.9%      | ██████████████████░░░░░░░░                    |
+| TypeScript | 06 hrs 51 mins | 25.3%      | █████████░░░░░░░░░░░░░░░░░░                   |
 
----
+> **Total Time Tracked:** 33 hrs 56 mins
+
