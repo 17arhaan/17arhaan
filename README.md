@@ -3,8 +3,11 @@
   <h4><a href="https://arhaanportfolio.in/" style="font-family: 'Courier New', monospace; font-size: 20px; color: #58a6ff; text-decoration: none;">🌐 Visit My Portfolio</a></h4>
   <img src="https://komarev.com/ghpvc/?username=17Arhaan&label=Profile%20views&color=0e75b6&style=flat" alt="17arhaan profile views" />
 </div>
+<div align ="center">
 
   ![intro](https://github.com/user-attachments/assets/92f4a3b7-71dc-44b5-bd44-6c7e0440cdd8)
+  
+</div>
 
 <div align = "center">
   <img align="center"src="https://github-readme-stats.vercel.app/api?username=17Arhaan&rank_icon=percentile&theme=radical"height="190em"&margin-w=2 />
