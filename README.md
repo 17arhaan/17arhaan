@@ -242,8 +242,9 @@
 | Language   | Time           | Percentage | Visual Representation                         |
 |------------|----------------|------------|-----------------------------------------------|
 | C++        | 05 hrs 14 mins | 23.8%      | ████████░░░░░░░░░░░░░░░░░░░░                  |
-| Python     | 21 hrs 51 mins | 50.9%      | ██████████████████░░░░░░░░                    |
+| Python     | 21 hrs 51 mins | 50.9%      | ██████████████████████░░░░░░░░                |
 | TypeScript | 06 hrs 51 mins | 25.3%      | █████████░░░░░░░░░░░░░░░░░░                   |
 
-> **Total Time Tracked:** 33 hrs 56 mins
+<p align="center"><strong>Total Time Tracked:</strong> 33 hrs 56 mins</p>
+
 
