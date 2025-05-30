@@ -13,7 +13,7 @@
 
 ---
 
-### About Me:
+<h3 align = "center"> About Me</h3>
 
 - Currently working on **DriveMind**
   Reinforcement Learning–based smart navigation system that:
