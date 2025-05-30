@@ -9,17 +9,31 @@
   
 </div>
 
+
+---
+
+### About Me:
+
+- Currently working on **DriveMind**
+  Reinforcement Learning–based smart navigation system that:
+  - Utilizes real-time multimodal data (5000+ camera streams, audio analysis, NLP)
+  - Achieves 90%+ route optimization accuracy
+  - Reduces commuter travel time by ~15%
+  - Integrates computer vision, audio intelligence, and decision modeling
+
+- My interests span:
+  - **AI/ML Systems** – Deep learning, LLMs, multi-modal inference, and real-time optimization
+  - **Full-Stack Development** – Scalable web apps using ReactJS, Next.js, Django, Node.js
+  - **Backend Engineering** – RESTful API design, authentication systems, and cloud deployment
+  - **Digital Marketing & Analytics** – Data-driven storytelling and brand strategy using AI
+  - 
+- All of my projects are available at [𝘗𝘙𝘖𝘑𝘌𝘊𝘛𝘚](https://github.com/17arhaan/Projects).
+  
 <div align = "center">
   <img align="center"src="https://github-readme-stats.vercel.app/api?username=17Arhaan&rank_icon=percentile&theme=radical"height="190em"&margin-w=2 />
 <!--   <img align="center"src="https://streak-stats.demolab.com?user=17arhaan&theme=radical&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D"height="190em"&margin-w=2 /> -->
 </div>
 
----
-
-### About Me:
-- 🔭 I’m currently working on **Humanoid ~ Disability Assistance**.
-- 🌱 I’m currently learning **How to build AI Agents and Deeplearning**.
-- 👨‍💻 All of my projects are available at [𝘗𝘙𝘖𝘑𝘌𝘊𝘛𝘚](https://github.com/17arhaan/Projects).
 </br>
 
 
