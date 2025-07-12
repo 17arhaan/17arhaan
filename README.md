@@ -33,7 +33,7 @@
   ---
   
 <div align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="190em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="200em"/>
   <img src="https://github-readme-stats.vercel.app/api?username=17Arhaan&rank_icon=percentile&theme=radical"height="190em"/>
 <!--   <img align="center"src="https://streak-stats.demolab.com?user=17arhaan&theme=radical&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D"height="190em"&margin-w=2 /> -->
 </div>
