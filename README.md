@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Arhaan Girdhar | B.Tech in Computer Science and Engineering (AI & ML) @ Manipal Institute of Technology</h3>
+  <h3>Arhaan Girdhar | AI / ML Junior | CSE UG @ Manipal Institute of Technology</h3>
   <h4><a href="https://arhaanportfolio.in/" style="font-family: 'Courier New', monospace; font-size: 20px; color: #58a6ff; text-decoration: none;">🌐 Visit My Portfolio</a></h4>
   <img src="https://komarev.com/ghpvc/?username=17Arhaan&label=Profile%20views&color=0e75b6&style=flat" alt="17arhaan profile views" />
 </div>
