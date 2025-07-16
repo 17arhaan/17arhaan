@@ -30,11 +30,6 @@ I’m also actively upskilling through certifications from DeepLearning.AI, Meta
 
 What drives me is the excitement of solving complex problems with intelligent systems and the power of collaboration to turn ideas into impactful solutions.
 
-🌐 Explore my work -->
-Portfolio: [arhaanportfolio.in](https://arhaanportfolio.in/)
-GitHub: [github.com/17arhaan](https://github.com/17arhaan)
-LinkedIn: [linkedin.com/in/arhaan17](https://linkedin.com/in/arhaan17)
-
 🤝 I’m always open to collaboration, internships, research projects, and connecting with people passionate about AI, product development, or building something impactful. Let’s connect and create something amazing together!
 
 ---
