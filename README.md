@@ -6,7 +6,7 @@
 </br>
 <div align ="center">
 
-  ![intro](https://github.com/user-attachments/assets/92f4a3b7-71dc-44b5-bd44-6c7e0440cdd8)
+  https://github.com/user-attachments/assets/92f4a3b7-71dc-44b5-bd44-6c7e0440cdd8
   
 </div>
 
