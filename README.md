@@ -3,7 +3,6 @@
   <img width="1584" height="396" alt="bg1" src="https://github.com/user-attachments/assets/222e0ba5-58b1-4063-9a04-f75497be4426" />
   
 </div>
-</br>
 <div align="center">
   <h4><a href="https://arhaanportfolio.in/" style="font-family: 'Courier New', monospace; font-size: 20px; color: #58a6ff; text-decoration: none;">🌐 Visit My Portfolio</a></h4>
   <img src="https://komarev.com/ghpvc/?username=17Arhaan&label=Profile%20views&color=0e75b6&style=flat" alt="17arhaan profile views" />
