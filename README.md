@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Arhaan Girdhar | [cite_start]B.Tech in Computer Science and Engineering (AI & ML) @ Manipal Institute of Technology </h3>
+  <h3>Arhaan Girdhar | B.Tech in Computer Science and Engineering (AI & ML) @ Manipal Institute of Technology</h3>
   <h4><a href="https://arhaanportfolio.in/" style="font-family: 'Courier New', monospace; font-size: 20px; color: #58a6ff; text-decoration: none;">🌐 Visit My Portfolio</a></h4>
   <img src="https://komarev.com/ghpvc/?username=17Arhaan&label=Profile%20views&color=0e75b6&style=flat" alt="17arhaan profile views" />
 </div>
@@ -15,15 +15,27 @@
 
 <h3 align = "center"> About Me</h3>
 
-- [cite_start]An ambitious CSE (AI & ML) student at Manipal Institute of Technology, passionate about leveraging Artificial Intelligence to solve real-world problems and build scalable solutions.
-- [cite_start]During my Machine Learning internship at Concur IP, I engineered and deployed ML-assisted scraping pipelines that **automated counterfeit monitoring across 20+ global platforms**, enabling protection for 15+ brands and **reducing manual review time by 75%**. [cite_start]I also implemented advanced filtering algorithms that **improved detection accuracy by 40%**.
-- [cite_start]My expertise spans **AI/ML Systems** (Deep Learning, Computer Vision, Reinforcement Learning, Multi-modal Inference, Real-time Optimization), **Full-Stack Development** (React.js, Next.js, Django, Node.js, Flask), and **Backend Engineering** (RESTful API design, robust authentication, cloud deployment on AWS/Azure).
-- [cite_start]I have a proven track record of optimizing software, including **boosting operational efficiency by 25%** by enhancing JavaFX-based interfaces and ensuring **99.9% system uptime** through virtual machine management.
-- [cite_start]As a Frontend Developer, I drove **user engagement up by 45%** by programming and deploying responsive, component-based web interfaces.
-- [cite_start]My projects include developing an **AI-driven brand protection platform** with automated web scraping and real-time dashboards [cite: 1][cite_start], and implementing a **real-time AI pipeline for facial recognition** achieving 96.8% mAP@0.5 and 98.5% precision.
-- I am actively seeking opportunities to apply cutting-edge AI/ML and software engineering principles to create impactful innovations.
+I’m a Computer Science student at Manipal Institute of Technology, specializing in Artificial Intelligence and Machine Learning.
 
-- All of my projects are available at [𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼](https://github.com/stars/17arhaan/lists/projects).
+With a strong foundation in Python, C++ and full-stack development, I focus on building real-world AI solutions that combine Computer Vision, Large Language Models, Deep Learning and Reinforcement Learning.
+
+Over the past few months, I’ve:
+
+* Developed an AI-powered brand protection platform at Concur IP (Questel), reducing manual review time by 75 percent and boosting detection accuracy by 40 percent.
+* Built real-time ML pipelines using PyTorch, OpenCV, Django, and Docker.
+* Created a facial recognition system using YOLOv8 and CNN with 96.8 percent mAP@0.5 and 98.5 percent precision.
+* Researched reinforcement learning models for simulating musculoskeletal biomechanics.
+
+I’m also actively upskilling through certifications from DeepLearning.AI, Meta, AWS, Microsoft, and Google. I regularly solve DSA problems on LeetCode in C++ to keep my fundamentals sharp.
+
+What drives me is the excitement of solving complex problems with intelligent systems and the power of collaboration to turn ideas into impactful solutions.
+
+🌐 Explore my work -->
+Portfolio: [arhaanportfolio.in](https://arhaanportfolio.in/)
+GitHub: [github.com/17arhaan](https://github.com/17arhaan)
+LinkedIn: [linkedin.com/in/arhaan17](https://linkedin.com/in/arhaan17)
+
+🤝 I’m always open to collaboration, internships, research projects, and connecting with people passionate about AI, product development, or building something impactful. Let’s connect and create something amazing together!
 
 ---
   
@@ -94,7 +106,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Digital%20Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
@@ -128,7 +140,7 @@
 
 | Language    | Time          | Percentage | Visual Representation                               |
 |-------------|---------------|------------|-----------------------------------------------------|
-| Python      | 21 hrs 51 mins| 70.9%      | █████████████████████████░░░░░░░░░░░░░░░        |
-| JavaScript  | 06 hrs 51 mins| 29.1%      | █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░       |
+| Python      | 21 hrs 51 mins| 70.9%      | ██████████████████████████░░░░░░░░░░░   |
+| JavaScript  | 06 hrs 51 mins| 20.1%      | █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░    |
 
 ---
