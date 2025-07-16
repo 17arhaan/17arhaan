@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Arhaan Girdhar | B.Tech in Computer Science and Engineering (AI & ML) @ Manipal Institute of Technology</h3>
+  <h3>Arhaan Girdhar | [cite_start]B.Tech in Computer Science and Engineering (AI & ML) @ Manipal Institute of Technology </h3>
   <h4><a href="https://arhaanportfolio.in/" style="font-family: 'Courier New', monospace; font-size: 20px; color: #58a6ff; text-decoration: none;">🌐 Visit My Portfolio</a></h4>
   <img src="https://komarev.com/ghpvc/?username=17Arhaan&label=Profile%20views&color=0e75b6&style=flat" alt="17arhaan profile views" />
 </div>
@@ -15,16 +15,14 @@
 
 <h3 align = "center"> About Me</h3>
 
-- [cite_start]I am a B.Tech student in Computer Science and Engineering (AI & ML) at Manipal Institute of Technology.
-- My expertise includes:
-  - [cite_start]**AI/ML Systems** – Deep Learning, Computer Vision, Reinforcement Learning, and Machine Learning. I have experience with multi-modal inference and real-time optimization.
-  - [cite_start]**Full-Stack Development** – Building scalable web applications using React.js, Next.js, Django, Node.js, and Flask.
-  - [cite_start]**Backend Engineering** – RESTful API design, database management (SQL, NoSQL), and cloud deployment on AWS and Azure.
-  - [cite_start]**Software Engineering** – Object-Oriented Programming, Data Structures, and Algorithms.
+- [cite_start]An ambitious CSE (AI & ML) student at Manipal Institute of Technology, passionate about leveraging Artificial Intelligence to solve real-world problems and build scalable solutions.
+- [cite_start]During my Machine Learning internship at Concur IP, I engineered and deployed ML-assisted scraping pipelines that **automated counterfeit monitoring across 20+ global platforms**, enabling protection for 15+ brands and **reducing manual review time by 75%**. [cite_start]I also implemented advanced filtering algorithms that **improved detection accuracy by 40%**.
+- [cite_start]My expertise spans **AI/ML Systems** (Deep Learning, Computer Vision, Reinforcement Learning, Multi-modal Inference, Real-time Optimization), **Full-Stack Development** (React.js, Next.js, Django, Node.js, Flask), and **Backend Engineering** (RESTful API design, robust authentication, cloud deployment on AWS/Azure).
+- [cite_start]I have a proven track record of optimizing software, including **boosting operational efficiency by 25%** by enhancing JavaFX-based interfaces and ensuring **99.9% system uptime** through virtual machine management.
+- [cite_start]As a Frontend Developer, I drove **user engagement up by 45%** by programming and deploying responsive, component-based web interfaces.
+- [cite_start]My projects include developing an **AI-driven brand protection platform** with automated web scraping and real-time dashboards [cite: 1][cite_start], and implementing a **real-time AI pipeline for facial recognition** achieving 96.8% mAP@0.5 and 98.5% precision.
+- I am actively seeking opportunities to apply cutting-edge AI/ML and software engineering principles to create impactful innovations.
 
-- [cite_start]I have experience in building and deploying ML-assisted scraping pipelines that automated counterfeit monitoring, reducing manual review time by 75% and improving detection accuracy by 40%.
-- [cite_start]My work includes optimizing JavaFX-based interfaces, boosting operational efficiency by 25%, and administering 20+ virtual machines with 99.9% system uptime.
-- [cite_start]I have programmed and deployed responsive, component-based web interfaces, increasing user engagement by 45%.
 - All of my projects are available at [𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼](https://github.com/stars/17arhaan/lists/projects).
 
 ---
@@ -50,54 +48,6 @@
 <div align ="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
-
----
-<h3 align="center">Certifications</h3>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/5VKU3Z5HMB2G" target="_blank">
-        <img src="https://img.shields.io/badge/Google-Intro%20to%20Generative%20AI-34A853?style=for-the-badge&logo=google&logoColor=white">
-      </a>
-      <br/>
-      <sub><b>Google</b><br/>Intro to Generative AI </sub>
-    </td>
-    <td align="center">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/6763NRR61X28" target="_blank">
-        <img src="https://img.shields.io/badge/AWS-Generative%20AI%20with%20LLMs-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-      </a>
-      <br/>
-      <sub><b>AWS</b><br/>Generative AI with LLMs </sub>
-    </td>
-    <td align="center">
-      <a href="https://your-link-to-meta-certificate.com" target="_blank">
-        <img src="https://img.shields.io/badge/Meta-Back--End%20Developer-0A66C2?style=for-the-badge&logo=meta&logoColor=white">
-      </a>
-      <br/>
-      <sub><b>Meta</b><br/>Back-End Developer </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.coursera.org/account/accomplishments/verify/MY6XZH187WW2" target="_blank">
-        <img src="https://img.shields.io/badge/Microsoft-Foundations%20of%20AI%20and%20ML-blue?style=for-the-badge&logo=microsoft&logoColor=white">
-      </a>
-      <br/>
-      <sub><b>Microsoft</b><br/>Foundations of AI & ML </sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/More%20Certifications-View%20Resume-gray?style=for-the-badge">
-      <br/>
-      <sub><b>See Resume</b><br/>For more certifications</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Check%20out%20my-Portfolio-green?style=for-the-badge">
-      <br/>
-      <sub><b>Visit</b><br/>My Portfolio</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -134,15 +84,22 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/OpenMPI-3EAAAF?style=for-the-badge&logo=openmpi&logoColor=white">
-  <img src="https://img.shields.io/badge/CUDA-384F69?style=for-the-badge&logo=nvidia&logoColor=white"> <img src="https://img.shields.io/badge/Beautiful%20Soup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white"> </p>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenMPI-3EAAAF?style=for-the-badge&logo=openmpi&logoColor=white">
+  <img src="https://img.shields.io/badge/CUDA-384F69?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/Beautiful%20Soup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white">
+</p>
 
 <h3 align="center">Databases | Cloud | Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Digital%20Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> </p>
+  <img src="https://img.shields.io/badge/Digital%20Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+</p>
 
 <h3 align="center">Other Tools</h3>
 <p align="center">
