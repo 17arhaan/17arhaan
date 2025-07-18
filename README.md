@@ -99,7 +99,7 @@ What drives me is the excitement of solving complex problems with intelligent sy
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<!--   <img src="https://img.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Digital%20Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
