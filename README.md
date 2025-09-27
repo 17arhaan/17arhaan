@@ -129,11 +129,11 @@ What drives me is the excitement of solving complex problems with intelligent sy
 <div>
 </div>
 
-<h3 align="center">Weekly Breakdown</h3>
+<!-- <h3 align="center">Weekly Breakdown</h3>
 
 | Language    | Time          | Percentage | Visual Representation                               |
 |-------------|---------------|------------|-----------------------------------------------------|
 | Python      | 21 hrs 51 mins| 70.9%      | ██████████████████████████░░░░░░░░░░░   |
 | JavaScript  | 06 hrs 51 mins| 20.1%      | █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░    |
 
----
+--- -->
