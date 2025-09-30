@@ -11,24 +11,26 @@
 
 ---
 
-<h3 align = "center"> About Me</h3>
+## 👨‍💻 About Me
 
-I’m a Computer Science student at Manipal Institute of Technology, specializing in Artificial Intelligence and Machine Learning.
+I’m a **Computer Science student at Manipal Institute of Technology**, specializing in **Artificial Intelligence and Machine Learning**.  
+With a strong foundation in **full-stack development**, I focus on building **real-world AI systems** that integrate **Computer Vision, Large Language Models, Deep Learning, and Reinforcement Learning** into deployable products.  
 
-With a strong foundation in Python, C++ and full-stack development, I focus on building real-world AI solutions that combine Computer Vision, Large Language Models, Deep Learning and Reinforcement Learning.
+### 🔑 Recent Highlights
+- **AI Brand Protection (Concur IP / Questel):** Built and deployed ML-assisted scraping pipelines across 20+ platforms, protecting 15+ brands. Reduced manual review time by **75%**, boosted detection accuracy by **40%**, and cut enforcement response time by **30%**.  
+- **Real-time ML Engineering:** Designed scalable pipelines with **PyTorch, OpenCV, Django, and Docker**, enabling production-ready computer vision systems.  
+- **Facial Recognition System:** Achieved **96.8% mAP@0.5** and **98.5% precision** using **YOLOv8 + CNN**, demonstrating state-of-the-art accuracy.  
+- **Reinforcement Learning Research:** Co-authored a paper on **musculoskeletal biomechanics simulation**, exploring agent-based modeling of human movement.  
+- **Applied AI Security (HackWithInfy):** Built **Code Safe**, an AI-powered vulnerability scanner with LLM orchestration and confidence scoring, detecting critical exploits (RCE, LFI, SQLi, XSS) with high precision.  
+- **Data & Systems Engineering:** Migrated **7,500+ legacy records** from MySQL → PostgreSQL with schema validation, referential integrity, and audit logging, raising data reliability to **95%**.  
+- **Leadership & Outreach:** Led cross-functional teams at **5+ international hackathons**, delivered **Python workshops** for 50+ students, and freelanced full-stack projects with a **4.8/5 client satisfaction score**.  
 
-Over the past few months, I’ve:
+I’m also actively **upskilling** through certifications from **DeepLearning.AI, Meta, AWS, Microsoft, and Google**. To sharpen my fundamentals, I regularly solve **DSA problems on LeetCode** in C++ and Python.  
 
-* Developed an AI-powered brand protection platform at Concur IP (Questel), reducing manual review time by 75 percent and boosting detection accuracy by 40 percent.
-* Built real-time ML pipelines using PyTorch, OpenCV, Django, and Docker.
-* Created a facial recognition system using YOLOv8 and CNN with 96.8 percent mAP@0.5 and 98.5 percent precision.
-* Researched reinforcement learning models for simulating musculoskeletal biomechanics.
+### 🚀 What Drives Me
+The excitement of solving **complex problems with intelligent systems** and the power of **collaboration** to turn ideas into impactful solutions.  
 
-I’m also actively upskilling through certifications from DeepLearning.AI, Meta, AWS, Microsoft, and Google. I regularly solve DSA problems on LeetCode in C++ to keep my fundamentals sharp.
-
-What drives me is the excitement of solving complex problems with intelligent systems and the power of collaboration to turn ideas into impactful solutions.
-
-🤝 I’m always open to collaboration, internships, research projects, and connecting with people passionate about AI, product development, or building something impactful. Let’s connect and create something amazing together!
+🤝 Open to **collaborations, internships, research projects**, and connecting with people passionate about **AI, product development, or building something impactful**.  
 
 ---
   
