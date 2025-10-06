@@ -8,29 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=17Arhaan&label=Profile%20views&color=0e75b6&style=flat" alt="17arhaan profile views" />
 </div>
 
+## About Me
+I'm a Computer Science student at MIT Manipal specializing in AI/ML, I love building scalable ideas that solve real-world problems, from AI applications to software production deployments.
 
----
-
-## 👨‍💻 About Me
-
-I’m a **Computer Science student at Manipal Institute of Technology**, specializing in **Artificial Intelligence and Machine Learning**.  
-With a strong foundation in **full-stack development**, I focus on building **real-world AI systems** that integrate **Computer Vision, Large Language Models, Deep Learning, and Reinforcement Learning** into deployable products.  
-
-### 🔑 Recent Highlights
-- **AI Brand Protection (Concur IP / Questel):** Built and deployed ML-assisted scraping pipelines across 20+ platforms, protecting 15+ brands. Reduced manual review time by **75%**, boosted detection accuracy by **40%**, and cut enforcement response time by **30%**.  
-- **Real-time ML Engineering:** Designed scalable pipelines with **PyTorch, OpenCV, Django, and Docker**, enabling production-ready computer vision systems.  
-- **Facial Recognition System:** Achieved **96.8% mAP@0.5** and **98.5% precision** using **YOLOv8 + CNN**, demonstrating state-of-the-art accuracy.  
-- **Reinforcement Learning Research:** Co-authored a paper on **musculoskeletal biomechanics simulation**, exploring agent-based modeling of human movement.  
-- **Applied AI Security (HackWithInfy):** Built **Code Safe**, an AI-powered vulnerability scanner with LLM orchestration and confidence scoring, detecting critical exploits (RCE, LFI, SQLi, XSS) with high precision.  
-- **Data & Systems Engineering:** Migrated **7,500+ legacy records** from MySQL → PostgreSQL with schema validation, referential integrity, and audit logging, raising data reliability to **95%**.  
-- **Leadership & Outreach:** Led cross-functional teams at **5+ international hackathons**, delivered **Python workshops** for 50+ students, and freelanced full-stack projects with a **4.8/5 client satisfaction score**.  
-
-I’m also actively **upskilling** through certifications from **DeepLearning.AI, Meta, AWS, Microsoft, and Google**. To sharpen my fundamentals, I regularly solve **DSA problems on LeetCode** in C++ and Python.  
-
-### 🚀 What Drives Me
-The excitement of solving **complex problems with intelligent systems** and the power of **collaboration** to turn ideas into impactful solutions.  
-
-🤝 Open to **collaborations, internships, research projects**, and connecting with people passionate about **AI, product development, or building something impactful**.  
+##### *Open to collaborations, internships, jobs, research projects, and connecting with people passionate about building something impactful*.  
 
 ---
   
