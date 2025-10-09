@@ -17,7 +17,7 @@ I'm a Computer Science student at MIT Manipal specializing in AI/ML, I love buil
   
 <div align = "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17arhaan&theme=radical&layout=compact&hide=html,css" height="200em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=17Arhaan&rank_icon=percentile&theme=radical"height="190em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=17Arhaan&rank_icon=percentile&theme=radical"height="200em"/>
 </div>
 
 </br>
