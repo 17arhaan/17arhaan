@@ -1,7 +1,7 @@
 <div align ="center">
 
-  <img width="1584" height="396" alt="bg1" src="https://github.com/user-attachments/assets/222e0ba5-58b1-4063-9a04-f75497be4426" />
-  
+  <img width="1584" height="396" alt="Arhaan Girdhar (2)" src="https://github.com/user-attachments/assets/5a963c04-2bd4-47d6-851b-7204a9a43131" />
+
 </div>
 <div align="center">
   <h4><a href="https://arhaanportfolio.in/" style="font-family: 'Courier New', monospace; font-size: 20px; color: #58a6ff; text-decoration: none;">🌐 Visit My Portfolio</a></h4>
